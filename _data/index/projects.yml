@@ -1,43 +1,22 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Launched choice cobranded credit card
-  gh_user: KACE-SMA-Tools
-  url: https://github.com/kace-sma-tools
+- name:  Baywheels Data Analysis
+  gh_user: sahithiindarapu
+  url: https://github.com/sahithiindarapu/baywheels_data_analysis
   img: /static/assets/img/landing/kacesmatools.png
-  desc: Idee, script e suggerimenti utili per Quest Kace Systems Management Appliace (precedentmente noto come K1000) 
+  desc: This project involves analyzing data from the Baywheels bike-sharing service. The analysis, conducted in a Jupyter notebook, covers various aspects of the bike-sharing data, such as usage patterns, trip durations, and user demographics​ (GitHub)​.
   #i18n: kace-sma-tools
 
-- name: K1000 Database Queries
-  gh_user: KACE-SMA-Tools
-  repo: K1000-Database-Queries
+- name: We Rate Dogs Wrangling
+  gh_user: sahithiindarapu
+  url: https://github.com/sahithiindarapu/we_rate_dogs_wrangling
   img: /static/assets/img/landing/development.png
-  desc:  Una collezione di queries MySQL per Il KACE 1000 (Quest Kace Systems Management Appliance)
+  desc: This project focuses on data wrangling and analysis of datasets from the popular Twitter handle "WeRateDogs." The project includes thorough data cleaning and manipulation to prepare the dataset for further analysis​ (GitHub)​.
   #i18n: k1000-database-queries
 
-- name: IPUI to IPEI
-  gh_user: Skyflash
-  repo: ipui2ipei
+- name: TMDb Analysis
+  gh_user: sahithiindarapu
+  url: https://github.com/sahithiindarapu/tmdb_analysis
   img: /static/assets/img/landing/dect-85-512.png
-  desc: IPUI 2 IPEI converte i codici IPUI, tipici dei telefoni DECT Siemens, allo standard IPEI.
-
-- name: FlottaStellare.it
-  gh_user:  ed-acfs
-  repo: ed-acfs.github.io
-  url:  https://flottastellare.it
-  img:  /static/assets/img/landing/flottastellare.png
-  desc: "Il sito web per lo Squadrone Flotta Stellare di Elite: Dangerous"
-
-- name: La Traduzione di Morrowind
-  gh_user: Skyflash
-  repo: morrowind-italian-itp-translation
-  img: /static/assets/img/landing/morrowind.png
-  desc: La traduzione in Italiano di Morrowind, Tribunal e Bloodmoon - A cura dell'ITP
-  #i18n: morrowind-translation
-
-- name: This website on Github
-  gh_user: Skyflash
-  repo: skyflash.github.io
-  img: /static/assets/img/landing/me.jpg
-  desc: Il repository GitHub su cui viene sviluppato questo sito
-  #i18n: skyflash-github
+  desc: This project analyzes a dataset from The Movie Database (TMDb), provided by Kaggle. The analysis, performed in a Jupyter notebook, explores various attributes of movies, such as popularity, revenue, and genres, to uncover interesting insights about the film industry​ (GitHub)​​ (GitHub)​.
