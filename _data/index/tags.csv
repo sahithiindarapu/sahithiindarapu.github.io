@@ -1,29 +1,32 @@
 word,weight
 Road mapping,80
-Prioritization,81
-Communication,80
+Prioritization,85
+Communication,90
 Stakeholder Management,70
-Competitive Analysis,60
-User Research,65
-Market Trends,65
+Competitive Analysis,40
+User Research,40
+Market Trends,40
 API,65
 Microservices,60
 Git,50
 Figma,50
 JIRA,70
-Jekyll,65
-ITIL,75
+Jekyll,635
+ITIL,40
 Business Analysis,80
 People Management,80
 Collaboration,85
-Product Strategy,75
-Pre,Sales & SOW, 80
+Product Strategy,70
+Pre,Sales & SOW, 60
 Product Design,75
 Customer obsessed,75
 Leadership,76
-B2B,76
-B2C,75
-SaaS,76
-SLACK,65
-Confleunce,70
-Monetization frameworks,70
+B2B,65
+B2C,65
+SaaS,55
+SLACK,45
+Confleunce,50
+Monetization frameworks,50
+Metrics,75
+KPI's,75
+OKR's,75

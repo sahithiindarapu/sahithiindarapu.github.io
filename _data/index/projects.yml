@@ -6,14 +6,12 @@
   url: https://github.com/sahithiindarapu/baywheels_data_analysis
   img: /static/assets/img/landing/kacesmatools.png
   desc: This project involves analyzing data from the Baywheels bike-sharing service. The analysis, conducted in a Jupyter notebook, covers various aspects of the bike-sharing data, such as usage patterns, trip durations, and user demographics​ (GitHub)​.
-  #i18n: kace-sma-tools
 
 - name: We Rate Dogs Wrangling
   gh_user: sahithiindarapu
   url: https://github.com/sahithiindarapu/we_rate_dogs_wrangling
-  img: /static/assets/img/landing/development.png
+  img: /Users/indarapusahithi/Downloads/1280px-Jupyter_logo.svg.png
   desc: This project focuses on data wrangling and analysis of datasets from the popular Twitter handle "WeRateDogs." The project includes thorough data cleaning and manipulation to prepare the dataset for further analysis​ (GitHub)​.
-  #i18n: k1000-database-queries
 
 - name: TMDb Analysis
   gh_user: sahithiindarapu
