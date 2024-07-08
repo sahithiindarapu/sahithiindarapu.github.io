@@ -1,7 +1,7 @@
 - name:
     detail: Wells Fargo
   desc:
-    detail: Succesfully launched two new co-branded credit cards, partnering with CHOICE hotels. Led end-to-end product life cycle from ideation to go-to market strategy.
+    detail: Successfully launched two new co-branded credit cards, partnering with CHOICE hotels. Led end-to-end product life cycle from ideation to go-to market strategy.
   date:
     detail: Apr 2022 - Aug 2023
   job:
@@ -21,29 +21,39 @@
 - name:
     detail: Etiya
   desc:
-    detail: Implemented multiple features to provide an omni channel experince for customers for a client called "Videotron" which was a big player in selling mobile service, internet, OTT and other accessories. Migrated legacy systems to micro-services based architecture.
+    detail: Launched Helix TV, boosting ARR by 35%. Spearheaded release and testing processes, reducing bug resolution time by 15%. Drove product innovation and ensured timely, high-quality product delivery.
   date:
-    detail: Feb 2021 - Apr 2022
+    detail: Jan 2019 - Jan 2020
   job:
     detail: Associate Product Manager
   icon: fa-plus-square
 
 - name:
-    detail: CSC
+    detail: Capgemini
   desc:
-    detail: TODO.
+    detail: Designed a risk assessment framework for GDPR compliance post-Brexit. Forecasted future risks in key focus areas, providing valuable insights for strategic decision-making.
   date:
-    detail: Feb 2021 - Apr 2022
+    detail: Jan 2018
   job:
-    detail: Senior Business Analyst
+    detail: Internship
   icon: fa-plus-square
 
 - name:
-    detail: CSC
+    detail: Doosan Babcock
   desc:
-    detail: TODO.
+    detail: Designed a risk assessment framework for GDPR compliance post-Brexit. Forecasted future risks in key focus areas, providing valuable insights for strategic decision-making.
   date:
-    detail: Feb 2021 - Apr 2022
+    detail: Jun 2017 - Jan 18
   job:
-    detail: Software Engineer
+    detail: Internship
+  icon: fa-plus-square
+
+- name:
+    detail: CSC (now DXC)
+  desc:
+    detail: Facilitated JAD sessions to document and design business requirements. Defined and tested scenarios, ensuring successful UAT sign-off. Developed comprehensive business requirement documents for stakeholder presentations.
+  date:
+    detail: Aug 2013 - Apr 2016
+  job:
+    detail: Senior Business Analyst
   icon: fa-plus-square

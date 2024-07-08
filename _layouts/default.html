@@ -5,18 +5,12 @@ layout: compress
 <!DOCTYPE html>
 <html itemscope itemtype="http://schema.org/Person" lang="it">
 
-    {% if page.title != 'Sahithi Indarapu' %}
-        {% include head.html %}
-    {% else %}
-        {% include index_head.html %}
-    {% endif %}
+    {% include head.html %}
+
 
 <body id="page-top" class="landing-page">
 
-    {% if page.title != 'Sahithi Indarapu' %}
-        {% include blog_header.html %}
-    {% endif %}
-
+    {% include blog_header.html %}
     {{ content }}
 
 {% include footer.html %}   

@@ -61,12 +61,12 @@ author:  # change following line to your infomation.
 
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: fa-paper-plane-o
-    - name: fa-linux
+    - name: chart-simple
+    - name: lightbulb
   skill_icon2:
-    - name: fa-apple
-    - name: fa-code
-  desc: "TODO"
+    - name: users-gear
+    - name: bullseye
+  desc: "Experienced Product Manager with over 6 years of expertise in FinTech and E-Commerce. Successfully launched new products, including credit cards at Wells Fargo, from MVP to global launch. Skilled in stakeholder management, data analysis, release management, and usability. Proven ability to lead cross-functional teams, prioritize features, and improve KPIs. Adept at developing product roadmaps and ensuring seamless product delivery."
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
