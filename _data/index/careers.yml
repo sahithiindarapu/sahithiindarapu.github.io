@@ -1,7 +1,7 @@
 - name:
     detail: Wells Fargo
   desc:
-    detail: Successfully launched two new co-branded credit cards, partnering with CHOICE hotels. Led end-to-end product life cycle from ideation to go-to market strategy.
+    detail: Led the product management for microservices team in launching two co-branded credit cards (MVP) partnering with CHOICE Hotels. Successfully brought these cards to market through close collaboration with internal departments (gateway, downstream systems, Legal & Compliance, UX) and external partners (CHOICE Hotels). Ensured alignment across all stakeholders, fostering a shared sense of purpose and achieving a successful MVP launch.
   date:
     detail: Apr 2022 - Aug 2023
   job:
@@ -11,7 +11,7 @@
 - name:
     detail: FISPAN
   desc:
-    detail: Managed a comprehensive product backlog to build multiple payment rails like ACH, Fedwire, wire transfers, Real time payments that would be embedded into ERP's of Small and Medium businesses.
+    detail: Managed a comprehensive product backlog and a team to two to build multiple payment products like ACH, Fedwire, wire transfers, Real time payments from 0 to 1.  These features were succesfully used by end-users inside their ERP's like Netsuite, Microsoft Business Central, Intuit QuickBooks.
   date:
     detail: Feb 2021 - Apr 2022
   job:
@@ -21,22 +21,22 @@
 - name:
     detail: Etiya
   desc:
-    detail: Launched Helix TV, boosting ARR by 35%. Spearheaded release and testing processes, reducing bug resolution time by 15%. Drove product innovation and ensured timely, high-quality product delivery.
+    detail: implemented multiple features like Shipment, inventory management, order management to transform user journey while buying internet& TV bundles, accessories, OTT, SVOD, TVOD that are sold by the Client "Videotron".
   date:
     detail: Jan 2019 - Jan 2020
   job:
     detail: Associate Product Manager
   icon: fa-plus-square
 
-- name:
-    detail: Capgemini
-  desc:
-    detail: Designed a risk assessment framework for GDPR compliance post-Brexit. Forecasted future risks in key focus areas, providing valuable insights for strategic decision-making.
-  date:
-    detail: Jan 2018
-  job:
-    detail: Internship
-  icon: fa-plus-square
+# - name:
+#     detail: Capgemini
+#   desc:
+#     detail: Designed a risk assessment framework for GDPR compliance post-Brexit. Forecasted future risks in key focus areas, providing valuable insights for strategic decision-making.
+#   date:
+#     detail: Jan 2018
+#   job:
+#     detail: Internship
+#   icon: fa-plus-square
 
 - name:
     detail: Doosan Babcock
@@ -51,7 +51,7 @@
 - name:
     detail: CSC (now DXC)
   desc:
-    detail: Facilitated JAD sessions to document and design business requirements. Defined and tested scenarios, ensuring successful UAT sign-off. Developed comprehensive business requirement documents for stakeholder presentations.
+    detail: Led Joint Application Development sessions to collect and document business and functional requirements.  Developed comprehensive business requirement documents like use-case diagrams and Activity diagrams for capturing the process design and presented these documents to stakeholders for approval. Defined and tested use-cases maintaining traceability matrix for requirements, ensuring successful UAT sign-off.
   date:
     detail: Aug 2013 - Apr 2016
   job:
