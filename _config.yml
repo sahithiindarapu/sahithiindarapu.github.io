@@ -62,7 +62,7 @@ author:  # change following line to your infomation.
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: fa-bar-chart
-    - name: fa-lightbulb
+    - name: fa-lightbulb-o
   skill_icon2:
     - name: fa-user-md
     - name: fa-bullseye
