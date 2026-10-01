@@ -1,6 +1,17 @@
 - name:
     detail: Wells Fargo
   desc:
+    detail: Architected an automated BSA/AML CIP merchant onboarding solution in Microsoft Dynamics 365, integrating REST APIs and Apache Kafka event streams for real-time address standardization and individual/business identity verification.
+  date:
+    detail: Sep 2023 - Oct 2026
+  job:
+    detail: Senior Digital Product Manager | Merchant Onboarding Automation (MS Dynamics 365)
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Wells Fargo
+  desc:
     detail: Successfully launched two new co-branded credit cards, partnering with CHOICE hotels. Led end-to-end product life cycle from ideation to go-to market strategy.
   date:
     detail: Apr 2022 - Aug 2023
